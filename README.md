@@ -108,6 +108,17 @@
 - 動作判別用
 
 
+## 2023年8月
+### Dragon Night ([dragon_night](./2023-08/dragon_night/))
+- 8月20日 サマーソニック(大阪)
+- 使用端末: Pixel6
+- 端末状態: ポケットに入れる
+- 手で持って各軸90度回転させる
+- フェス中にポケットに入れていた
+  - Dragon Night(SEKAI NO OWARI)
+- 撮影禁止でもセンシングはできる
+- 楽しかった記録として残せそう
+
 
 ## 2023年9月
 ### 東京駅バス待ち無 ([tokyo-station-bus-none](./2023-09/tokyo-station-bus-none/))
