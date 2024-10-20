@@ -321,3 +321,21 @@
   - ジャンプ
   - 何もしない
   - 全ての動作を10秒ずつ
+
+## 2024年7月
+### ドラゴンナイト深海(名古屋公演)1日目 ([shinkai-dragon-night-day1](./2024-07/shinkai-dragon-night-day1/))
+- 7月12日 ポートメッセなごや
+- 使用機器: Pixel6a
+- 端末状態: ポケットに入れる
+
+### ドラゴンナイト深海(名古屋公演)2日目 ([shinkai-dragon-night-day2](./2024-07/shinkai-dragon-night-day2/))
+- 7月13日 ポートメッセなごや
+- 使用機器: Pixel6a
+- 端末状態: ポケットに入れる
+
+## 2024年8月
+### 色々 ([iroiro](./2024-08/iroiro/))
+- 8月5日 梶研
+- 使用機器: mocopi(iPhone12)
+- 端末状態: mocopiをつける
+- 動作: https://youtu.be/eoTclk6IuwU?si=oHz6Fx1GnX3iupBS
